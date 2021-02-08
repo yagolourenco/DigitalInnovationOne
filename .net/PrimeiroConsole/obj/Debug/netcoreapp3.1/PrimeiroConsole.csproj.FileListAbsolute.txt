@@ -1,0 +1,13 @@
+D:\Estudos\.NET\.net\PrimeiroConsole\bin\Debug\netcoreapp3.1\PrimeiroConsole.exe
+D:\Estudos\.NET\.net\PrimeiroConsole\bin\Debug\netcoreapp3.1\PrimeiroConsole.deps.json
+D:\Estudos\.NET\.net\PrimeiroConsole\bin\Debug\netcoreapp3.1\PrimeiroConsole.runtimeconfig.json
+D:\Estudos\.NET\.net\PrimeiroConsole\bin\Debug\netcoreapp3.1\PrimeiroConsole.runtimeconfig.dev.json
+D:\Estudos\.NET\.net\PrimeiroConsole\bin\Debug\netcoreapp3.1\PrimeiroConsole.dll
+D:\Estudos\.NET\.net\PrimeiroConsole\bin\Debug\netcoreapp3.1\PrimeiroConsole.pdb
+D:\Estudos\.NET\.net\PrimeiroConsole\obj\Debug\netcoreapp3.1\PrimeiroConsole.csprojAssemblyReference.cache
+D:\Estudos\.NET\.net\PrimeiroConsole\obj\Debug\netcoreapp3.1\PrimeiroConsole.AssemblyInfoInputs.cache
+D:\Estudos\.NET\.net\PrimeiroConsole\obj\Debug\netcoreapp3.1\PrimeiroConsole.AssemblyInfo.cs
+D:\Estudos\.NET\.net\PrimeiroConsole\obj\Debug\netcoreapp3.1\PrimeiroConsole.csproj.CoreCompileInputs.cache
+D:\Estudos\.NET\.net\PrimeiroConsole\obj\Debug\netcoreapp3.1\PrimeiroConsole.dll
+D:\Estudos\.NET\.net\PrimeiroConsole\obj\Debug\netcoreapp3.1\PrimeiroConsole.pdb
+D:\Estudos\.NET\.net\PrimeiroConsole\obj\Debug\netcoreapp3.1\PrimeiroConsole.genruntimeconfig.cache
